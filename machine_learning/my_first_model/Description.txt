@@ -1,0 +1,10 @@
+Here is my very first Tensorflow machine learning self-training model, I will be using my own objects and images for learning. I will use this system for my future robotics projects :)
+
+Using: https://colab.research.google.com/github/khanhlvg/tflite_raspberry_pi/blob/main/object_detection/Train_custom_model_tutorial.ipynb#scrollTo=35BJmtVpAP_n
+
+STEPS FOR SETTING UP THIS MODEL.
+1.
+!pip install -q tflite-model-maker
+!pip install -q tflite-support
+
+p
